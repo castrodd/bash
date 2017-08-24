@@ -1,5 +1,9 @@
 # Bash Shell Scripting
 
+Note: Please change permissions in order to run script.
+
+`chmod +x gift.sh`
+
 ## gift.sh
 
 Allows user to 'gift-wrap' all non-directory files (and, optionally, directory files, too) found on Desktop into _default_ folder. User also able to choose name of folder on the command line. 
