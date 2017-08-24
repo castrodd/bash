@@ -2,4 +2,9 @@
 
 ## gift.sh
 
-Allows user to wrap all (non-directory) files on Desktop into _Gift_ folder.
+Allows user to 'gift-wrap' all (non-directory) files on Desktop into _default_ folder. Also able to choose name of folder on the command line. 
+
+```
+./gift.sh [optional name]
+
+```
